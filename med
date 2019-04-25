@@ -1,0 +1,10 @@
+x = input("x:")
+x = int(x)
+y = x+1
+
+
+if y > 1:
+    print("drink water")
+else:
+    print("ppp")
+print(f"x:{x},y:{y}")
